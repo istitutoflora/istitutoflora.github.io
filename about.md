@@ -4,6 +4,8 @@ title: Mediumish Template for Jekyll
 comments: true
 ---
 
+Questa pagina racconta chi siamo e parla di noi.
+
 This website is built with Jekyll and Mediumish template for Jekyll. It is meant for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mediumish-jekyll-template.png){: .shadow}
