@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Visita città di Bergamo e di Brescia 27-28-29 marzo 2019"
+title:  "Visita città di Bergamo e di Brescia - Marzo 2019"
 author: gaia 
-categories: [ didattica, tempo libero ]
-image: assets/images/gita_bergamo.JPG
+categories: [ didattica, tempo-libero ]
+image: assets/images/2019-04-04-gita-bergamo/gita_bergamo.JPG
 featured: true
-hidden: true
+hidden: false
 ---
 **GIORNO 1**
-
 Siamo partiti alle 7.00 da piazza Marconi a Moncalieri, appena arrivati a Bergamo, 
 intorno alle 10.30, abbiamo visitato la parte alta della città, considerata da sempre 
 la parte più bella di Bergamo.
@@ -27,7 +26,7 @@ successivamente è stata occupata dai romani, ma la popolazione barbara (i galli
 riuscirono a riprendere il controllo della città e la denominarono Bergamo.                                          
 
 
-![alt descrizione]({{site.baseurl}}/assets/images/bergamo_fontana.JPG){: .shadow}
+![alt descrizione]({{site.baseurl}}/assets/images/2019-04-04-gita-bergamo/bergamo_fontana.JPG){: .shadow}
 
 Dopodiché abbiamo fatto visita alla Piazza Vecchia, do c’era una fontana decorata 
 con statue a forme di leone, ha una funzione civile, difatti non ci sono chiese o altri 
@@ -37,17 +36,17 @@ presenti solo elementi religiosi, quali un famoso Battistero, la Basilica di San
 Maggiore e la cattedrale di Bergamo.
 
 
-![alt descrizione]({{site.baseurl}}/assets/images/bergamo_duomo.JPG){: .shadow}
+![alt descrizione]({{site.baseurl}}/assets/images/2019-04-04-gita-bergamo/bergamo_duomo.JPG){: .shadow}
 
 A progettare la struttura di queste due Piazze fu Giovanni Antonio Amedeo, un architetto milanese.
 Il rosone della basilica viene considerata come una ruota della fortuna e i leoni 
 davanti all’entrata rappresentano l’invocazione del bene e la difesa contro il male.
  
-**GIORNO 2**                                                                                                                                                    
+**GIORNO 2**
 La mattina del secondo giorno abbiamo visitato una scuola agraria in cui si produce 
 il grana padano. 
 
-![alt descrizione]({{site.baseurl}}/assets/images/brescia_caseificio.png){: .shadow}
+![alt descrizione]({{site.baseurl}}/assets/images/2019-04-04-gita-bergamo/brescia_caseificio.png){: .shadow}
 
 Nel pomeriggio siamo andati a visitare la Rocca di Soncino.
 La differenza tra una rocca e un castello è che la prima è l’edificio in cui abitavano i 
@@ -74,9 +73,8 @@ la più famosa nell’ attività di stampaggio di testi Ebraici.
 Al termine di questa giornata abbiamo esplorato i dintorni del fiume Serio, facendo 
 un’attività di scienze, in cui dovevamo esaminare le caratteristiche del territorio.
  
-**GIORNO 3**                                                                                                                                       
+**GIORNO 3**
 Il mattino del terzo giorno abbiamo visitato Brescia e il museo di Santa Giulia, dove è 
 conservata la storia di questa città.
-Dopodiché abbiamo pranzato bel centro di Brescia e per concludere la nostra la 
-nostra gita scolastica siamo andati in un agriturismo in cui abbiamo preparato i 
+Dopodiché abbiamo pranzato nel centro di Brescia e per concludere la  nostra gita scolastica siamo andati in un agriturismo in cui abbiamo preparato i 
 biscotti con le nostre mani, partendo dall’ impasto.

@@ -2,32 +2,23 @@
 name: "Flora Blog"
 description: "Il racconto delle nostre avventure"
 meta_description: "Il racconto delle nostre avventure"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-#baseurl: /mediumish-theme-jekyll
-baseurl: ''
-#google_analytics: 'UA-46278016-1'
-#disqus: 'demowebsite'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+logo: "assets/images/logo.jpg"
+favicon: "assets/images/logo2.png"
+baseurl: ""
 
 # Authors
 authors:
+  tommaso:
+    name: Tommaso
+    display_name: Tommaso
+    gravatar: avatar.png
+    description: "Il secchione della classe, appassionato di nuoto e influencer su instagram"
   gaia:
     name: Gaia
     display_name: Gaia
     gravatar: gaia2019.jpg
     description: "Appassionata d'equitazione"  
-  #tommaso:
-    #name: Tommaso
-    #display_name: Tommaso
-    #gravatar: tommaso2019.jpg
-    #description: "Il secchione della classe, appassionato di nuoto e influencer su instagram"
   
-#tommaso:
-    #name: Tommaso
-    #display_name: Gaia
-    #gravatar: tommaso2019.jpg
-    #description: "Il secchione della classe, appassionato di nuoto e influencer su instagram"
 # Plugins
 plugins: 
   - jekyll-paginate
