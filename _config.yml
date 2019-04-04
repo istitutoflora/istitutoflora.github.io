@@ -12,15 +12,22 @@ baseurl: ''
 
 # Authors
 authors:
-  federica:
-    name: Federica
-    display_name: Federica
-    gravatar: federica2019.jpg
-    #email: wowthemesnet@gmail.com
-    #web: https://www.wowthemes.net
-    #twitter: https://twitter.com/wowthemesnet
-    description: "Descrizione TBD"
- 
+  gaia:
+    name: Gaia
+    display_name: Gaia
+    gravatar: gaia2019.jpg
+    description: "Appassionata d'equitazione"  
+  #tommaso:
+    #name: Tommaso
+    #display_name: Tommaso
+    #gravatar: tommaso2019.jpg
+    #description: "Il secchione della classe, appassionato di nuoto e influencer su instagram"
+  
+#tommaso:
+    #name: Tommaso
+    #display_name: Gaia
+    #gravatar: tommaso2019.jpg
+    #description: "Il secchione della classe, appassionato di nuoto e influencer su instagram"
 # Plugins
 plugins: 
   - jekyll-paginate
