@@ -1,4 +1,4 @@
-# Site
+# Site\
 name: "Flora Media Blog"
 description: "Il racconto delle nostre avventure"
 meta_description: "Il racconto delle nostre avventure"
@@ -17,8 +17,22 @@ authors:
     name: Gaia
     display_name: Gaia
     gravatar: gaia2019.jpg
-    description: "Appassionata d'equitazione"  
-  
+    description: "Appassionata d'equitazione" 
+  benedetta:
+    name: Benedetta
+    display_name: Benedetta
+    gravatar: benedetta2019.png
+    description: "Appassionata di pattinaggio"
+  niccolo:
+    name: Niccolo
+    display_name: Niccolò
+    gravatar: avatar.png
+    description: "Giocatore di calcio nella squadra giovanile della Juventus"
+  classe_3:
+    name: classe_3
+    display_name: "Classe 3 A.S. 2018-2019"
+    gravatar: classe_3_2018.jpg
+    description: "Classe 3 A.S. 2018-2019"  
 # Plugins
 plugins: 
   - jekyll-paginate
